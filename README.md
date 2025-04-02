@@ -2,9 +2,11 @@
 A python project which tracks tasks
 
 # Command to execute
-'python Python_Task_Tracker.py add "Complete project documentation"'
-'python Python_Task_Tracker.py list'
-'python Python_Task_Tracker.py mark 1 done'
+```
+python Python_Task_Tracker.py add "Complete project documentation"
+python Python_Task_Tracker.py list
+python Python_Task_Tracker.py mark 1 done
+```
 
 Project will create a json file after you run the command.
 
